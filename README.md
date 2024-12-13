@@ -53,7 +53,7 @@ graph TD
     F -->|Internet Access| G[External World]
     C -->|Secure Communication| F
 ```
-
+ 
 # 🛡️ Security Optimizations
 Key Configurations
 ### Network ACLs:
