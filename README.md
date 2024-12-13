@@ -62,8 +62,6 @@ Ensured isolation between public and private subnets.
 ### Security Groups:
 Public server: Opened only necessary ports (e.g., 22 for SSH, 80 for HTTP).
 Private server: Allowed traffic exclusively from the public server.
-
-
 Security Flowchart
 ```mermaid
 flowchart TD
