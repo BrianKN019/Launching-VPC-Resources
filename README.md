@@ -47,11 +47,11 @@ Here’s an overview of the VPC architecture:
 graph TD
     A[VPC (10.0.0.0/16)] --> B[Public Subnet (10.0.0.0/24)]
     A --> C[Private Subnet (10.0.1.0/24)]
-    B -->|Traffic| D[Public Server]
-    C -->|Restricted Traffic| E[Private Server]
+    B --> D[Public Server]
+    C --> E[Private Server]
     B --> F[NAT Gateway]
-    F -->|Internet Access| G[External World]
-    C -->|Secure Communication| F
+    F --> G[External World]
+    C --> F
 ```
  
 # 🛡️ Security Optimizations
