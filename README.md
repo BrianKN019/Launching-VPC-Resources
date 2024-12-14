@@ -1,6 +1,6 @@
-# Launching-VPC-Resources
+# Launching-VPC-Resources  
 
-# 🚀 Legendary AWS Networks: EC2 & VPC Resources
+# 🚀 Legendary AWS Networks: EC2 & VPC Resources  
 
 Welcome to the **Legendary AWS Networks Project**, where we explore the power of **Amazon Virtual Private Cloud (VPC)** and **EC2 instances** to create secure, scalable, and customizable network architectures. Designed by **Brian Kimemia Njeri**, this guide walks through the steps of configuring a VPC, setting up EC2 instances, and optimizing security and access.
 
