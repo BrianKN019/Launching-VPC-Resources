@@ -34,7 +34,7 @@ Welcome to the **Legendary AWS Networks Project**, where we explore the power of
   - Enabled external access while maintaining secure configurations.
 - **Private Server**:
   - Restricted access to sensitive resources.
-  - Allowed traffic only from the public server’s security group.
+  - Allowed traffic only from the public server’s security group. 
 
 ---
 
